@@ -1,4 +1,4 @@
-# UPF---Machine-Learning-for-MIR-Labs
+# UPF Machine Learning for MIR Labs
 This repository contains weekly experiments with ML algorithms to perform different music information retrieval (MIR) tasks for the Master's Program in Sound and Music Computing at Universitat Pompeu Fabra in Barcelona, Spain. 
 
 Code is meant to be executable on Google Drive, accessing the [MagnaTagATune](https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset) dataset for most of the assignments (if not otherwise specified). 
