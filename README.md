@@ -11,4 +11,5 @@ Code is meant to be executable on Google Drive, accessing the [MagnaTagATune](ht
 *  **Lab 7** - Metric Learning
 *  **Lab 8** - Transformers
 *  **Lab 9** - Transfer Learning 
+*  **Lab 10** - Audio-to-Text
 
